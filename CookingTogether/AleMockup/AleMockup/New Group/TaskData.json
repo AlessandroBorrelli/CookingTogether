@@ -1,0 +1,151 @@
+[
+    {
+        "user": "User 1",
+        "description": "Put a pot of salted water on the stove to cook the pasta",
+        "taskImage": "acquaSale",
+        "id": 1001,
+    },
+    
+    {
+        "user": "User 1",
+        "description": "Plunge the spaghetti into boiling water and cook for the time indicated on the package",
+        "taskImage": "acquaSpaghetti",
+        "id": 1002,
+    },
+    
+    {
+        "user": "User 1",
+        "description": "Click if the pasta is cooked",
+        "taskImage": "acquaBolle",
+        "id": 1003,
+    },
+    
+    {
+        "user": "User 1",
+        "description": "Drain the pasta al dente directly into the pan with the guanciale and toss briefly for flavor",
+        "taskImage": "speghettiPadella",
+        "id": 1004,
+    },
+    
+    {
+        "user": "User 1",
+        "description": "When the pasta is on the plates, season with pepper",
+        "taskImage": "pepePiatto",
+        "id": 1005,
+    },
+    
+    {
+        "user": "User 1",
+        "description": "Season with pecorino",
+        "taskImage": "pecorinoPiatto",
+        "id": 1006,
+    },
+    
+    {
+        "user": "User 1",
+        "description": "Congratulations, you are done!",
+        "taskImage": "end",
+        "id": 1007,
+    },
+    
+    {
+        "user": "User 2",
+        "description": "Remove the rind from the pork cheek",
+        "taskImage": "guancialeCotenna",
+        "id": 2001,
+    },
+    
+    {
+        "user": "User 2",
+        "description": "Cut the pork cheek into slices",
+        "taskImage": "guancialeFette",
+        "id": 2002,
+    },
+    
+    {
+        "user": "User 2",
+        "description": "cut the pork cheek into strips about 1cm thick",
+        "taskImage": "guancialeStrisce",
+        "id": 2003,
+    },
+    
+    {
+        "user": "User 2",
+        "description": "Pour the pieces into a non-stick pan and brown for about 15 minutes over medium heat",
+        "taskImage": "guancialeFuoco",
+        "id": 2004,
+    },
+    
+    {
+        "user": "User 2",
+        "description": "Remove from the heat and, as soon as the egg mixture is ready, pour it into the pan",
+        "taskImage": "compostoPadella",
+        "id": 2005,
+    },
+    
+    {
+        "user": "User 2",
+        "description": "Stir quickly to mix",
+        "taskImage": "mescolaPadella",
+        "id": 2006,
+    },
+    
+    {
+        "user": "User 2",
+        "description": "Congratulations, you are done!",
+        "taskImage": "end",
+        "id": 2007,
+    },
+    
+    {
+        "user": "User 3",
+        "description": "Pour the yolks into a bowl",
+        "taskImage": "tuorliCiotola",
+        "id": 3001,
+    },
+    
+    {
+        "user": "User 3",
+        "description": "Add most of the pecorino provided in the recipe",
+        "taskImage": "pecorinoCiotola",
+        "id": 3002,
+    },
+    
+    {
+        "user": "User 3",
+        "description": "Season everything with black pepper",
+        "taskImage": "pepeCiotola",
+        "id": 3003,
+    },
+    
+    {
+        "user": "User 3",
+        "description": "Mix everything together with a hand whisk.",
+        "taskImage": "frustaCiotola",
+        "id": 3004,
+    },
+    
+    {
+        "user": "User 3",
+        "description": "Add a tablespoon of cooking water to thin the mixture and stir",
+        "taskImage": "acquaCiotola",
+        "id": 3005,
+    },
+   
+    
+    {
+        "user": "User 3",
+        "description": "Appena la pasta sarà pronta, mettila nei piatti",
+        "taskImage": "impiatta",
+        "id": 3006,
+        },
+    
+        {
+            "user": "User 3",
+            "description": "Congratulations, you are done!",
+            "taskImage": "end",
+            "id": 3007,
+        },
+    
+
+]
